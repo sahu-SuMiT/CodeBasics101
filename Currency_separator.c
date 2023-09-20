@@ -1,4 +1,4 @@
-// currency notes of each denomination the cashier will have to give to the withdrawer
+// currency notes of each denomination the cashier will have to give to the withdrawer Ryan BCS057
 #include <stdio.h>
 int main() {
     int amount;  // enter the amount to be withdrawn
