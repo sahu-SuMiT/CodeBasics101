@@ -1,4 +1,4 @@
-// patterns
+// patterns Ryan BCS057
 #include <stdio.h>
 #include <conio.h>
 int main() {
@@ -10,19 +10,29 @@ int main() {
     scanf("%d", &choice);
     switch (choice) {
         case 1:
-            printf("Upto number of stars (odd number only): ");
+            printf("Upto number of stars: ");
             scanf("%d", &star);
             for (int i=0; i<star; i++){
-                for (int j=0; j<(star-i-3);j++){
-                    printf(" *");
+                for (int j=star; j>i; j--){
+                printf("*");
                 }
-         //       for (int j=0; j<=i; j++){
-          //          printf("*");
-           //     }
+            printf("\n");
+            }
+            break;
+        case 2:
+            printf("Upto number of rows: ");
+            scanf("%d", &star);
+            for (int i=0; i<star; i++){
+                for (int j=0; j<=(2*star-i);j++){
+                    printf(" ");
+                }
+                for (int j=0; j<=2*i; j++){
+
+                    printf("*");
+                }
                 printf("\n");
             }
             break;
-
         case 3:
             printf("Upto number of stars: ");
             scanf("%d", &star);
