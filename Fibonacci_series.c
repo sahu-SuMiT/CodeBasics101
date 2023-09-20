@@ -1,4 +1,4 @@
-// Fibonacci Series
+// Fibonacci Series Ryan BCS057
 #include <stdio.h>
 #include <conio.h>
 int fib_rec(int index){
