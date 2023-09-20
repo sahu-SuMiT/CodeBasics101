@@ -1,4 +1,4 @@
-// print number in words
+// print number in words Ryan BCS057
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
