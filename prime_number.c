@@ -1,4 +1,4 @@
-//  Write a program whether the enter number is prime or not
+//  Write a program whether the enter number is prime or not Ryan BCS057
 #include <stdio.h>
 #include <conio.h>
 int main() {
