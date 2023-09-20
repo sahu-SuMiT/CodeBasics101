@@ -1,4 +1,4 @@
-// Write a C program to input the coefficients of a quadratic equation and find the roots of equation
+// Write a C program to input the coefficients of a quadratic equation and find the roots of equation Ryan BCS057
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
