@@ -1,4 +1,4 @@
-// check whether the entered integer number is palindrome or not
+// check whether the entered integer number is palindrome or not Ryan BCS057
 #include <stdio.h>
 #include <conio.h>
 int main() {
