@@ -1,4 +1,4 @@
-// Calculator
+// Calculator Ryan BCS057
 #include <stdio.h>
 #include <conio.h>
 int main() {
