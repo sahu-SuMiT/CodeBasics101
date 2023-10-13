@@ -12,7 +12,7 @@ int fib_rec(int index){
         return fib_rec(index-2)+fib_rec(index-1);
     }
     else {
-        return 0;
+        return -1;
     }
 }
 int fib_ite(int index){
