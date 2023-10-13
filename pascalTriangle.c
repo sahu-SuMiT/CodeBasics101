@@ -1,3 +1,4 @@
+//Sumit BCS064
 #include <stdio.h>                                     //using the Binomial relation nCr=nCr-1(n-r-1)/r
 int main(){
   int num=5;                                           //num=number of lines pascal triangle executes
